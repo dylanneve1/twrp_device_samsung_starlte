@@ -1,0 +1,8 @@
+ro.display.series=Samsung Note10 lite
+ro.product.board=exynos9810
+ro.board.platform=universal9810
+sys.usb.controller=10c00000.dwc3
+ro.boot.usbcontroller=10c00000.dwc3
+ro.boot.dynamic_partitions=true
+#fbe.metadata.wrappedkey=true
+ro.boot.boot_devices=11120000.ufs
