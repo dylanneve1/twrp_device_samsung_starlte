@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_r7-eng
+lunch twrp_r7-eng
 make recoveryimage
 ```
 
